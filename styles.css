@@ -161,7 +161,7 @@ body {
     text-align: center;
 }
 
-@media (max-width:700px) {
+@media (max-width:500px) {
     .container_imagem {
         height: 7%;
         padding: 0 0 2em 0;
